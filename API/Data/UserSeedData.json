@@ -108,7 +108,7 @@
     "Country": "Zambia",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/11.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/11.jpg",
         "IsMain": true
       }
     ]
@@ -127,7 +127,7 @@
     "Country": "Peru",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/70.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/70.jpg",
         "IsMain": true
       }
     ]
@@ -146,7 +146,7 @@
     "Country": "Belgium",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/35.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/35.jpg",
         "IsMain": true
       }
     ]
@@ -165,7 +165,7 @@
     "Country": "Antarctica",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/19.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/19.jpg",
         "IsMain": true
       }
     ]
@@ -184,7 +184,7 @@
     "Country": "Vatican City State (Holy See)",
     "Photos": [
       {
-        "Url": "https://randomuser.me/api/portraits/male/94.jpg",
+        "Url": "https://randomuser.me/api/portraits/men/94.jpg",
         "IsMain": true
       }
     ]
