@@ -11,6 +11,7 @@ export interface Member {
     gender: string;
     lookingFor: string;
     interests: string;
+    introcution: string;
     city: string;
     country: string;
     photos: Photo[];
